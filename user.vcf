@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Imagawa;Rafael;;;
+FN: Rafael Kajimoto Iamagawa 
+ORG:Gemma Viagens;
+TITLE:TI
+EMAIL;type=INTERNET;type=WORK;type=pref:gemmatur.com.br
+TEL;type=WORK;type=VOICE:+55 31 98458 8751
+item1.ADR;type=WORK;type=pref:;;Rua dos Guajajaras 410 3 Andar\nBelo Horizonte\, 09-01;;;30.180-912;Belo Horizonte
+item1.X-ABADR:br
+item2.URL;type=pref:gemmatur.com.br
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
