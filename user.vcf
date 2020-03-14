@@ -7,7 +7,7 @@ ORG:Gemma Viagens;
 TITLE:TI
 EMAIL;type=INTERNET;type=WORK;type=pref:gemmatur.com.br
 TEL;type=WORK;type=VOICE:+55 31 98458 8751
-item1.ADR;type=WORK;type=pref:;;Rua dos Guajajaras 410 3 Andar\nBelo Horizonte\, 09-01;;;30.180-912;Belo Horizonte
+item1.ADR;type=WORK;type=pref:;;Rua dos Guajajaras 410 3 Andar\nBelo Horizonte\, ;;;30.180-912;Belo Horizonte
 item1.X-ABADR:br
 item2.URL;type=pref:gemmatur.com.br
 item2.X-ABLabel:_$!<HomePage>!$_
